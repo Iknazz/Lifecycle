@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">activitylifecycle</string>
+    <string name="passwort">Passwort</string>
+    <string name="benutzername">Benutzername</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="anmelden">anmelden</string>
+    <string name="todo">TODO</string>
+</resources>
